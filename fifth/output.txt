@@ -1,0 +1,4 @@
+Akib 12
+This input is invalid
+Jony 0
+Amit 100
